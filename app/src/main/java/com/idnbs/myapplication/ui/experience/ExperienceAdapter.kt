@@ -4,7 +4,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import coil.load
 import com.idnbs.myapplication.R
 import com.idnbs.myapplication.data.experience.Experience
 import com.idnbs.myapplication.databinding.ItemExperienceBinding

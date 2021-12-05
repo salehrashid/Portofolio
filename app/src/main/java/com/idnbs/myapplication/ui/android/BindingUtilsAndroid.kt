@@ -3,7 +3,6 @@ package com.idnbs.myapplication.ui.android
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.databinding.BindingAdapter
-import coil.Coil
 import coil.load
 import com.idnbs.myapplication.data.android.Android
 
