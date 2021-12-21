@@ -3,7 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/profile.xml" value="0.37083333333333335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/fragment_android.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/fragment_experience.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/fragment_experience_detail.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/fragment_flutter.xml" value="0.35052083333333334" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.296195652173913" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/fragment_ui_ux.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/item_android.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/item_experience.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/menu/navdrawer_menu.xml" value="0.35052083333333334" />
       </map>
     </option>
   </component>
